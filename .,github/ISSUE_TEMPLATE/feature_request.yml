@@ -1,0 +1,15 @@
+name: "💡 Предложение"
+description: Предложите свою идею.
+title: "💡 [ПРЕДЛОЖЕНИЕ] - <title>"
+labels: [
+  "suggestion"
+]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Описание"
+      description: Пожалуйста, введите подробное описание идеи.
+      placeholder: Краткое и подробное описание идеи...
+    validations:
+      required: true
