@@ -1,6 +1,6 @@
 name: "💡 Предложение"
 description: Предложите свою идею.
-title: "💡 [ПРЕДЛОЖЕНИЕ] - <title>"
+title: "[ПРЕДЛОЖЕНИЕ] <заголовок>"
 labels: [
   "suggestion"
 ]
